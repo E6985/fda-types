@@ -1,21 +1,21 @@
-< [GMIT Data Analytics](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict) | [Table of Contents](https://github.com/E6985) | [README](https://github.com/E6985/fda-types/blob/main/README.md) >
+< [GMIT Data Analytics](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict) | [Home](https://github.com/SeanOhAileasa) | [README](https://github.com/SeanOhAileasa/fda-types/blob/main/README.md) >
 
-![GMIT](https://github.com/E6985/pda-numpy-random/blob/main/img/gmit.png?raw=true)
+[![GMIT](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/gmit.png?raw=true)](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict)
 
 ## Fundamentals of Data Analysis - Course Material 2020
-### Topic: [Types](https://nbviewer.jupyter.org/github/E6985/fda-types/blob/main/fda-types.ipynb)
+### Topic: [Types](https://nbviewer.jupyter.org/github/SeanOhAileasa/fda-types/blob/main/fda-types.ipynb)
 
 Course material for the ``Fundamentals of Data Analysis`` module (5 Credits) of the ``Higher Diploma in Science in Computing (Data Analytics) (H.Dip)`` programme (75 Credits) at **Galway-Mayo Institute of Technology (GMIT)**.
 
-[Abstract](https://nbviewer.jupyter.org/github/E6985/fda-types/blob/main/fda-types.ipynb#abstract)
+[Abstract](https://nbviewer.jupyter.org/github/SeanOhAileasa/fda-types/blob/main/fda-types.ipynb#abstract)
 
 ###### Keywords: integer; float; string
 
-[Introduction](https://nbviewer.jupyter.org/github/E6985/fda-types/blob/main/fda-types.ipynb#introduction)
+[Introduction](https://nbviewer.jupyter.org/github/SeanOhAileasa/fda-types/blob/main/fda-types.ipynb#introduction)
 
 ###### Keywords: names; variable types
 
-[Solution](https://nbviewer.jupyter.org/github/E6985/fda-types/blob/main/fda-types.ipynb#solution)
+[Solution](https://nbviewer.jupyter.org/github/SeanOhAileasa/fda-types/blob/main/fda-types.ipynb#solution)
 
 ###### Keywords: integer; float; string; types; translating human ideas; binary representation; binary; decimal; bit; mantissa; accuracy; real numbers; integer trick
 
@@ -23,7 +23,7 @@ Course material for the ``Fundamentals of Data Analysis`` module (5 Credits) of 
 
 ###### (A) Standard Library (a_S_tandard_L_ibrary-imports): struct - unpack - pack
 
-[Conclusion](https://nbviewer.jupyter.org/github/E6985/fda-types/blob/main/fda-types.ipynb#conclusion)
+[Conclusion](https://nbviewer.jupyter.org/github/SeanOhAileasa/fda-types/blob/main/fda-types.ipynb#conclusion)
 
 ###### Keywords: types for humans
 
@@ -108,7 +108,7 @@ https://www.anaconda.com/download/
 
 	- Clone the repository with the following command:
 
-	``git clone https://github.com/E6985/fda-types.git``
+	``git clone https://github.com/SeanOhAileasa/fda-types.git``
 
     - Run Jupyter Notebooks from the command line with the following:
 
@@ -120,6 +120,6 @@ https://www.anaconda.com/download/
 
 	- ***Notebook links will not work on github given that github renders as static HTML - also not able to view equation tag numbers. Please run on a local machine or use nbviewer (see below).***
 
-- An alternative to downloading and running on a local machine with all features included (links/equation tag number etc) can view via [nbviewer](https://nbviewer.jupyter.org/github/E6985/fda-types/blob/main/fda-types.ipynb).
+- An alternative to downloading and running on a local machine with all features included (links/equation tag number etc) can view via [nbviewer](https://nbviewer.jupyter.org/github/SeanOhAileasa/fda-types/blob/main/fda-types.ipynb).
 
 ## END
